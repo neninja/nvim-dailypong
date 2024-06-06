@@ -1,0 +1,9 @@
+*dailypong.txt* *dailypong*
+Package to check coworkers already talked about daily standup meeting.
+
+COMMANDS
+
+*:DailyToggle*
+Toggle the target current line. Can be used with `<CR>` mapping.
+
+vim:tw=78:et:ft=help:norl:
